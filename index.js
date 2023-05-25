@@ -1,3 +1,6 @@
+const contacts = require("./contacts");
+
+contacts.listContacts();
 let run = true;
 while (run) {
   setTimeout(() => {
