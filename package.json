@@ -1,0 +1,24 @@
+{
+  "name": "cli-aplikacja",
+  "version": "1.0.0",
+  "description": "Homework Node-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KtianG/CLI-aplikacja.git"
+  },
+  "keywords": [
+    "homework",
+    "node",
+    "cli"
+  ],
+  "author": "Krystian Guz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KtianG/CLI-aplikacja/issues"
+  },
+  "homepage": "https://github.com/KtianG/CLI-aplikacja#readme"
+}
