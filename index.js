@@ -1,11 +1,3 @@
 const contacts = require("./contacts");
 
-contacts.listContacts();
-let run = true;
-while (run) {
-  setTimeout(() => {
-    console.log("Pip");
-  }, 1000);
-  run = false;
-  console.log("working");
-}
+contacts.addContact("K G", "email@somewhere", "212-222-333");
